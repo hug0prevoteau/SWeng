@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T13:29:34.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="5kjVCRxUVL_jSaDHV3jv" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T13:30:40.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="t5BeScYwpUxxapEn6aZS" version="13.9.7" type="github">
   <diagram id="aA-QaOl3buLaw9nU_oUb" name="Page-1">
     <mxGraphModel dx="1965" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,8 +52,8 @@
         <mxCell id="_7fg3Liive27QqCO996e-25" value="Histograme&lt;br&gt;Score de confiance&lt;br&gt;Affichage quelques tweets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="655" y="410" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_7fg3Liive27QqCO996e-26" value="&lt;h1&gt;TwitSens&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="294" y="240" width="120" height="40" as="geometry" />
+        <mxCell id="_7fg3Liive27QqCO996e-26" value="&lt;h1&gt;SensTwit&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="116" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
